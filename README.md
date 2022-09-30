@@ -1,6 +1,7 @@
 # Constants of motion network (COMET)
 
 This is the repository accompanying the paper "Constants of motion network".
+All of the codes and notes are in the `contents` folder.
 
 https://user-images.githubusercontent.com/1624640/165353470-5b43fc1a-77de-4705-98e8-2dde532119b2.mp4
 
@@ -22,7 +23,7 @@ python -m pip install -r requirements.txt
 
 If you come only to see the orthogonalization code, take a look at the `methods.py`, under
 the object `CoMet` and the method `forward` and follow the branches where `ncom != 0`.
-Or you can also follow the simplistic implementation (only 30 lines of code) below.
+Or you can also follow the simplistic implementation below (only 30 lines of code).
 
 ```python
 import torch
