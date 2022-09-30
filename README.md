@@ -3,6 +3,8 @@
 This is the repository accompanying the paper "Constants of motion network".
 All of the codes and notes are in the `contents` folder.
 
+![two-body-animation-smaller](https://user-images.githubusercontent.com/1624640/193280954-6e275aea-b0a3-4091-ba1f-942a69c77d38.gif)
+
 https://user-images.githubusercontent.com/1624640/165353470-5b43fc1a-77de-4705-98e8-2dde532119b2.mp4
 
 ## Getting started
