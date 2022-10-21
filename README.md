@@ -1,6 +1,6 @@
 # Constants of motion network (COMET)
 
-This is the repository accompanying the paper "Constants of motion network".
+This is the repository accompanying the paper *"Constants of motion network"* (NeurIPS 2022).
 All of the codes and notes are in the `contents` folder.
 
 ![two-body-animation-smaller](https://user-images.githubusercontent.com/1624640/193280954-6e275aea-b0a3-4091-ba1f-942a69c77d38.gif)
